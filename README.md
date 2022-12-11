@@ -1,4 +1,4 @@
-- 🙋🏻‍♂️ Hello, I'm Koen Rademaker, MSc student bioinformatics at VU Amsterda.
+- 🙋🏻‍♂️ Hello, I'm Koen Rademaker, MSc student bioinformatics at VU Amsterdam.
 - 👀 My interests lie in computational biology, genetics and single-cell biology.
 - 👨🏻‍💻 I mostly work in Python, R, or Bash scripting languages, but have been trained in Java and SQL during my BSc as well.
 - 🌱 I am currently following more in-depth machine learning courses and want to further develop my programming skills in this field as I see great opportunities for research questions in bioinformatics.

@@ -1,4 +1,4 @@
-🙋🏻‍♂️ Hello, I am Koen Rademaker, MSc student bioinformatics at VU Amsterdam. Since April 2023 I am in the group of Oliver Stegle (German Cancer Research Center in Heidelberg) to conduct my master research thesis, joint with the Omer Bayraktar group (Wellcome Sanger Institute).
+🙋🏻‍♂️ Hello, I am Koen Rademaker, a recent MSc Bioinformatics graduate from VU Amsterdam and currently working as a bioinformatician focusing on spatial transcriptomics in neurodevelopmental disorders at the Wellcome Sanger Institute in Omer Bayraktar's group. Previously, I conducted a MSc thesis project in Oliver Stegle's group (German Cancer Research Center in Heidelberg) in collaboration with Omer Bayraktar's group at Sanger.
 
 🧠 My interests lie in computational biology, genetics and cell biology.
 
